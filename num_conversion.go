@@ -1,5 +1,6 @@
 /*
 This is a home-work like pracitce for been familiar with golang
+$Id$
 */
 
 package main
